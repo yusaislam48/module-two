@@ -1,0 +1,45 @@
+img{
+    width: 50%;
+}
+p{
+    font-weight: 700;
+    font-width: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#felling{
+    font-size: 30px;
+    color: skyblue;
+}
+.good{
+    background-color: yellow;
+    color: black;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1.good{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+span{
+    color: red;
+}
+span.felling{
+    color: tomato;
+}
+.blog{
+    background-color: lightblue;
+    width: 30%;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 1%;
+    padding: 15px ;
+    float: left;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
